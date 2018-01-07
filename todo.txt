@@ -1,0 +1,2 @@
+- Test configparser + pyInstaller
+- change key_list to dict to make sure certain argument can only be inserted to certain type of charts by __init__ using both class name and key_name
