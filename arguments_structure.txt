@@ -1,3 +1,0 @@
-Parameters: 
-- SPC() parameters: only come from metadata session (name, program, machine, etc.)
-- Chart 1 parameters, chart 2 parameters (from selection in form) (ax_format, lsl/usl, data convertion, standard/extended calc
