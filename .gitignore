@@ -3,4 +3,4 @@
 /build
 /spc2py.spec
 /venv
-.__pycache__
+/__pycache__
