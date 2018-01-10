@@ -4,3 +4,4 @@
 /spc2py.spec
 /venv
 /__pycache__
+/*.pyc
